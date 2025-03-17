@@ -4,7 +4,7 @@
 ## 💡 Small Programming Ideas for fun, that I wanna make :3
 🔸 Pseudo-Casino <br>
 🔸 Pseudo-Bank <br>
-🔸 Personal Website on Neocities <br>
+🔸 Personal Blog on Neocities <br>
 🔸 Improve Custom Home Page for Browser <br>
 🔸 RedesignWeb Project <br>
 🔸 UnionHub (It will help to unite all my future projects) <br>
