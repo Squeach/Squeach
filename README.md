@@ -9,6 +9,7 @@
 🔸 RedesignWeb Project <br>
 🔸 UnionHub (It will help to unite all my future projects) <br>
 🔸 Sapphire Project (Inspired by Meta-Verse idea, but much simpler non-VR for story telling) <br>
+🔸 Digital library of own stories <br>
 🔸 The Last Words App (Just a poem with one surprise :3) <br>
 
 ## ✳️ P.S.
