@@ -3,10 +3,10 @@
 
 ## 🧑‍🔧 Something wrong?
 ```javascript
-function catch(msg) {
-  console.log(`Error: ${msg}`);
+function sniffing(action) {
+  console.log(`I'm sniffing ${action}, today!`);
 }
-catch("16 lines");
+sniffing("16 lines");
 ```
 
 ## ✳️ P.S.
