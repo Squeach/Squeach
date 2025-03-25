@@ -4,7 +4,7 @@
 ## 🧑‍🔧 Something wrong?
 ```javascript
 function sniffing(action) {
-  console.log(`I'm sniffing ${action}, today!`);
+  console.log(`${action} of blow and I'm fine`);
 }
 sniffing("16 lines");
 ```
