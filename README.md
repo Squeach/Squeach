@@ -11,7 +11,3 @@ sniffing("16 lines");
 
 ## ✳️ P.S.
 Btw, what are you doing here, sweethearts? :3
-
-## 🔗 Contacts (I will not answer for a long time)
-🔸 **ProtonMail:** Sulaxy@protonmail.com <br>
-🔸 **Discord:** squeach
