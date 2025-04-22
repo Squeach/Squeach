@@ -2,11 +2,18 @@
 'Cause I have often mood/interests swings for a short period of time, and broken brain. In short, I'm a dumbass piece of shit.
 
 ## 🧑‍🔧 Something wrong?
-```javascript
-function sniffing(action) {
-  console.log(`${action} of blow and I'm fine`);
+```cpp
+#include <iostream>
+#include <string>
+
+std::string sniffing(std::string action) {
+  return action;
 }
-sniffing("16 lines");
+
+int main() {
+  std::cout << sniffing("16 lines") << std::endl;
+  return 0;
+}
 ```
 
 ## ✳️ P.S.
