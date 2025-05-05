@@ -6,12 +6,12 @@
 #include <iostream>
 #include <string>
 
-std::string sniffing(std::string action) {
+std::string smoking(std::string action) {
   return action;
 }
 
 int main() {
-  std::cout << sniffing("16 lines") << std::endl;
+  std::cout << smoking("weed") << std::endl;
   return 0;
 }
 ```
