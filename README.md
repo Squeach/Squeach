@@ -17,4 +17,4 @@ int main() {
 ```
 
 ## ✳️ P.S.
-Btw, what are you doing here, sweethearts? :3
+Btw, what are you doing here?
