@@ -6,12 +6,12 @@
 #include <iostream>
 #include <string>
 
-std::string smoking(std::string action) {
-  return action;
+std::string transform(std::string animal) {
+  return animal;
 }
 
 int main() {
-  std::cout << smoking("weed") << std::endl;
+  std::cout << transform("cat") << std::endl;
   return 0;
 }
 ```
