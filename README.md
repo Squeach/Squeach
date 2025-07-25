@@ -19,6 +19,3 @@ This is just a small GitHub page of the slow as Christmas me, who probably will 
     if (age >= 30) alive = false;
   }
 ```
-
-# Socials
-[Bluesky](https://bsky.app/profile/squeach.bsky.social)
