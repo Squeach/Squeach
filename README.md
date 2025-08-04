@@ -6,7 +6,7 @@ This is just a small GitHub page of the slow as Christmas me, who probably will 
 # My head is broken 🥀💔
 ```javascript
   let alive = true;
-  let age = 24;
+  let age = 24; // u still got time, use it wisely
 
   function do(action) {
     if (action === "daydreaming") { console.log("You're wasting time!"); }
