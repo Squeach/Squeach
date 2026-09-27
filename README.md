@@ -5,7 +5,6 @@ There are no rules, only the way I work:
 - Everything's free
 - Do whatever you want with the copy
 - I don't need any advice, remember that quote buddy, "use whatever you fckin' want"
-- Donate if you want and can
 ## ✨ Special for corporate
 ```cpp
 #include <print>
