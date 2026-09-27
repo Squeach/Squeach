@@ -1,16 +1,17 @@
-## Hi there 👋
+## 🏴‍☠️ Welcome aboard, Pirates!
+There are no rules, only the way I work:
+- Alone
+- No License (I don't believe in license, so free to use for everyone)
+- Everything's free
+- Do whatever you want with the copy
+- Donate if you want and can
+## ✨ Special for corporate
+```cpp
+#include <print>
 
-<!--
-**Squeach/Squeach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+auto main() -> int {
+  for (int i = 0; i < 20000; i++) std::println("Fck Government and Corporations!");
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  return 0;
+}
+```
